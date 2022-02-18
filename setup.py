@@ -26,7 +26,8 @@ setup(
     install_requires=[
         'numpy >= 1.14.0',
         'scipy >= 1.1.0',
-        'scikit-learn >= 0.19.1'
+        'scikit-learn >= 0.19.1',
+        'joblib >= 1.13.2'
     ],
 
     classifiers=[
